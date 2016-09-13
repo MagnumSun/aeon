@@ -1,0 +1,26 @@
+.nodisplay {
+  font-size: 1.1vw;
+  color: #FFFFFF;
+  display: none;
+  position: relative;
+  left:  1%;
+  top: 15%;
+}
+
+.nodisplay1 {
+  font-size: 1.1vw;
+  color: #ff0000;
+  display: none;
+  position: relative;
+  left:  1%;
+  top: 18%;
+}
+
+.nodisplay2 {
+  font-size: 1.1vw;
+  color: #FFFFFF;
+  display: none;
+  position: relative;
+  left:  1%;
+  top: 20%;
+}
