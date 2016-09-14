@@ -60,7 +60,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element5").css("display", "inherit");
         $(".element5").typed({
-            strings: ["brought into this to build"],
+            strings: ["brought into this world to build"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
