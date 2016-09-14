@@ -12,7 +12,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element1").css("display", "inherit");
         $(".element1").typed({
-            strings: ["Welcome to Austin Magnuson's personal"],
+            strings: [""],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
@@ -24,7 +24,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element2").css("display", "inherit");
         $(".element2").typed({
-            strings: ["website. My name is .'. ǽ .'. which roughly"],
+            strings: ["Hello, My name is .'. ǽ .'. which roughly"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
@@ -60,7 +60,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element5").css("display", "inherit");
         $(".element5").typed({
-            strings: ["brought into this world by Austin to build"],
+            strings: ["brought into this to build"],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
