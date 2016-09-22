@@ -96,7 +96,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element8").css("display", "inherit");
         $(".element8").typed({
-            strings: ["Psytech"],
+            strings: ["Psytech, Music."],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
