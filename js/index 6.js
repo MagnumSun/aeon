@@ -36,7 +36,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".element3").css("display", "inherit");
         $(".element3").typed({
-            strings: ["translates to Aeon Tenebris."],
+            strings: ["translates to Ǽon Tenebris."],
             typeSpeed: 30, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
